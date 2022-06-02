@@ -1,4 +1,4 @@
-# PROJETO EM GOVERNANÇA DE TI
+# PROJETO DE GOVERNANCA EM TI
 
 • Universidade nove de julho
 
